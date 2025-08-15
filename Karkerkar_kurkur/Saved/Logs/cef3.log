@@ -1,2 +1,2 @@
-[0815/075541.621:ERROR:backend_impl.cc(1041)] Critical error found -8
-[0815/075542.450:WARNING:storage_block-inl.h(146)] Failed data load.
+[0815/080320.254:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0815/080443.932:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 415
